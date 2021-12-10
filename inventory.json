@@ -1,0 +1,41 @@
+{
+        "sandwiches": {
+            "breakfast": [
+                {"inventory": 0, "name": "Sausage Bagel", "deliveredBy": "Catapult"},
+                {"inventory": 0, "name": "Lumberjack",  "deliveredBy": "Catapult"},
+                {"inventory": 0, "name": "Sunrise Breakfast Wrap", "deliveredBy": "Catapult"},
+                {"inventory": 0, "name":  "Bacon Omelet Melt",  "deliveredBy": "Catapult"},
+                {"inventory": 0, "name":  "Sausage Omelet Melt", "deliveredBy": "Catapult"},
+                {"inventory": 0, "name": "Mama Mozz Omelet Melt", "deliveredBy": "Catapult"}
+                ],
+            "lunch": [
+                {"inventory": 0, "name": "Turkey Bacon Croissant", "deliveredBy": "Catapult"},
+                {"inventory": 0, "name": "Hangry Vegan", "deliveredBy": "Catapult"},
+                {"inventory": 0, "name": "Smoky Chicken Melt",  "deliveredBy": "Catapult"}
+                ]
+            },
+        
+        "pastries": [
+                {"inventory": 0, "name": "Mighty-O Sprinkle", "deliveredBy": "Catapult"},
+                {"inventory": 0, "name": "Mighty-O Seasonal" ,  "deliveredBy": "Catapult"},
+                {"inventory": 0, "name": "Blueberry Scone", "deliveredBy": "Catapult"},
+                {"inventory": 0, "name": "Orange Currant Scone" ,  "deliveredBy": "Catapult"},
+                {"inventory": 0, "name": "Rotating Coffee Cake", "deliveredBy": "Catapult"},
+                {"inventory": 0, "name": "Sour Cream Coffee Cake" ,  "deliveredBy": "Catapult"}
+        ],
+        
+        "crafted_items": [
+            "Caramel Jugs",
+            "Salted Rice Krispies",
+            "Cranberry Lime Tartlets"
+        ],
+        "finales_items": [
+            "Ham and Gruyere Quiche",
+            "Spinach and Feta Quiche",
+            "Chocolate Chip Banana Bread",
+            "Rotating Finales Bread"
+        ],
+        "macrina_items": [
+            
+        ]
+}
